@@ -635,12 +635,15 @@ export default function EchoSpiroWorkstation() {
 
   const handleCopyReferralSlip = () => {
     const text = getLocalizedSlipText();
-    navigator.clipboard.writeText(text);
-    setCopiedNotification(true);
-    setTimeout(() => setCopiedNotification(false), 2500);
+    if (typeof navigator !== 'undefined' && navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text);
+      setCopiedNotification(true);
+      setTimeout(() => setCopiedNotification(false), 2500);
+    }
   };
 
   const handleDownloadReport = () => {
+    if (typeof window === 'undefined' || typeof document === 'undefined') return;
     const text = getLocalizedSlipText();
     const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
     const url = URL.createObjectURL(blob);
@@ -656,7 +659,9 @@ export default function EchoSpiroWorkstation() {
   const handlePrint = () => {
     setShowReferralModal(true);
     setTimeout(() => {
-      window.print();
+      if (typeof window !== 'undefined') {
+        window.print();
+      }
     }, 80);
   };
 

@@ -221,11 +221,15 @@ export class AcousticRadarEngine {
 
   public async start(): Promise<void> {
     if (this.isRunning) return;
+    if (typeof window === 'undefined') return;
 
     try {
       const AudioCtxClass =
         window.AudioContext ||
         (window as unknown as { webkitAudioContext: typeof AudioContext }).webkitAudioContext;
+      if (!AudioCtxClass) {
+        throw new Error('Web Audio API is not supported in this browser.');
+      }
       this.audioCtx = new AudioCtxClass({
         sampleRate: this.targetSampleRate,
         latencyHint: 'interactive',

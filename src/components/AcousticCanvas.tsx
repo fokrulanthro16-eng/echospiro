@@ -71,7 +71,7 @@ export const AcousticCanvas: React.FC<AcousticCanvasProps> = ({
     if (!ctx) return;
 
     const updateCanvasSize = () => {
-      const dpr = window.devicePixelRatio || 1;
+      const dpr = typeof window !== 'undefined' ? (window.devicePixelRatio || 1) : 1;
       const rect = container.getBoundingClientRect();
       const width = Math.floor(rect.width);
       const height = Math.floor(rect.height || 380);

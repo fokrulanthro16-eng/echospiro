@@ -1,0 +1,29 @@
+# Git & Docker artifacts
+.git/
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Python automation & test capture scripts
+scripts/
+*.py
+*.py[cod]
+__pycache__/
+
+# Large recorded video & audio binaries
+*.mp4
+*.wav
+*.webm
+*.avi
+*.mkv
+screenshots/
+temp_pitch_build/
+pitch_verification_proofs/
+test_rec/
+
+# Clinical governance & specs (not needed for frontend Next.js compilation)
+ARCHITECTURE.md
+CLINICAL_VALIDATION.md
+CITATION.cff
+CONTRIBUTING.md
+SECURITY.md

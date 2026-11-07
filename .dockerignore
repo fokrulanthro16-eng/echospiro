@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.gitignore
+*.mp4
+*.wav
+*.webm
+*.log
+temp_pitch_build
+pitch_verification_proofs
+screenshots
+test_rec
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store

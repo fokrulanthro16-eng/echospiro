@@ -1,0 +1,40 @@
+MIT License
+
+Copyright (c) 2027 Fokrul Islam & EchoSpiro Contributors (VITB - JHU Health-Hack 2027)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+===============================================================================
+BIOMEDICAL RESEARCH & CLINICAL INVESTIGATIONAL USE DISCLAIMER
+(WHO Class II Software as a Medical Device - SaMD Guidelines)
+===============================================================================
+EchoSpiro is an experimental research prototype engineered for the VITB - Johns
+Hopkins University Health-Hack 2027 under IRB Protocol JHU-IRB-2027-0184. 
+It demonstrates active contactless ultrasonic Doppler continuous-wave (CW) 
+demodulation in edge browser environments.
+
+This software has NOT received 510(k) clearance or PMA approval from the United
+States Food and Drug Administration (FDA), European CE-Mark Certification, or
+equivalent national medical regulatory authorisations for primary diagnostic use. 
+
+This platform is intended exclusively for investigational clinical research,
+triage benchmarking, educational simulation, and humanitarian edge prototyping.
+It must NOT be used as the sole basis for clinical diagnosis, critical emergency
+decisions, or therapeutic prescription without secondary validation by a licensed
+pulmonologist or certified gold-standard pneumotachographic spirometry.

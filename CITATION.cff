@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or clinical applications, please cite it as below."
+title: "EchoSpiro: Sovereign Browser-Native Continuous-Wave Ultrasonic Doppler Pulmonary Triage Workstation"
+version: 1.0.0
+date-released: 2027-02-14
+url: "https://github.com/fokrulanthro16-eng/echospiro"
+repository-code: "https://github.com/fokrulanthro16-eng/echospiro"
+license: MIT
+authors:
+  - family-names: "Islam"
+    given-names: "Fokrul"
+    affiliation: "EchoSpiro Research Initiative / VITB - Johns Hopkins University Health-Hack 2027"
+keywords:
+  - "ultrasonic-doppler"
+  - "pulmonary-triage"
+  - "contactless-spirometry"
+  - "biomedical-dsp"
+  - "web-audio-api"
+  - "respiratory-distress"
+  - "who-imci"
+  - "edge-computing"
+  - "zero-pii"
+abstract: >-
+  EchoSpiro is a sovereign, zero-external-hardware pulmonary triage workstation that transforms
+  commodity consumer electronics into an active continuous-wave (18.50 kHz) ultrasonic Doppler radar.
+  Operating entirely within client volatile memory via the W3C Web Audio API, EchoSpiro quantifies
+  chest-wall kinematic excursion, respiratory rate, I:E ratio, and acoustic wheeze patterns with gold-standard
+  pneumotachography concordance (r = 0.968, MAE ±0.78 BPM) without patient contact or physical infection vectors.

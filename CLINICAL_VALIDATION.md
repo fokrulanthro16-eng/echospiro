@@ -5,6 +5,8 @@
 **Cohort Size:** $N = 128$ Human Subjects  
 **Regulatory Standard:** WHO Technical Specifications for Pulmonary Function Screening & IEEE/ANSI C63.27 Acoustic Telemetry Standards  
 
+[🌐 **Live Production Workstation**](https://echospiro-9a2u.vercel.app) • [🎬 **Watch 4K Video Pitch**](https://youtu.be/_lFlSE2TJYs) • [📐 **Technical Architecture**](ARCHITECTURE.md) • [🔒 **Security Charter**](SECURITY.md) • [📖 **Project README**](README.md)
+
 ---
 
 ## 1. Executive Clinical Summary

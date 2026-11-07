@@ -1,7 +1,12 @@
 {
   "name": "echospiro",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
+  "homepage": "https://echospiro-9a2u.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fokrulanthro16-eng/echospiro.git"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

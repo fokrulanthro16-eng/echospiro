@@ -7,6 +7,8 @@
    +-----------------------------------------------------------------------------------+
 ```
 
+[🌐 **Live Production Workstation**](https://echospiro-9a2u.vercel.app) • [🎬 **Watch 4K Video Pitch**](https://youtu.be/_lFlSE2TJYs) • [📊 **Clinical Validation (N=128)**](CLINICAL_VALIDATION.md) • [🔒 **Security Charter**](SECURITY.md) • [📖 **Project README**](README.md)
+
 ---
 
 ## 1. System Overview & Core Philosophy

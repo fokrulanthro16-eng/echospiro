@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![Live Workstation](https://img.shields.io/badge/Live%20Workstation-echospiro--9a2u.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://echospiro-9a2u.vercel.app)
 [![VITB - JHU Health-Hack 2027](https://img.shields.io/badge/VITB%20--%20JHU-Health--Hack%202027-0284c7?style=for-the-badge&logo=medicare&logoColor=white)](https://github.com/fokrulanthro16-eng/echospiro)
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
 [![Next.js 15](https://img.shields.io/badge/Next.js-15.0-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -12,7 +13,13 @@
 
 ### **Transforming Commodity Laptops & Phones into Contactless, 18.5 kHz Continuous-Wave Ultrasonic Doppler Spirometers for Frontline Pulmonary Triage.**
 
-[**Watch Official 4K Video Pitch (YouTube)**](https://youtu.be/_lFlSE2TJYs) • [**Technical Architecture**](ARCHITECTURE.md) • [**Clinical Validation (N=128)**](CLINICAL_VALIDATION.md) • [**Security & Zero-PII**](SECURITY.md)
+[🌐 **Launch Live Workstation (Vercel)**](https://echospiro-9a2u.vercel.app) • [🎬 **Watch Official 4K Video Pitch (YouTube)**](https://youtu.be/_lFlSE2TJYs) • [📐 **Technical Architecture**](ARCHITECTURE.md) • [📊 **Clinical Validation (N=128)**](CLINICAL_VALIDATION.md) • [🔒 **Security & Zero-PII**](SECURITY.md)
+
+---
+
+> [!IMPORTANT]
+> **Live Production Workstation Active:** **[https://echospiro-9a2u.vercel.app](https://echospiro-9a2u.vercel.app)**  
+> Hardware-permissioned continuous-wave 18.50 kHz ultrasonic Doppler radar live in production. Operates directly in standard Google Chrome or Microsoft Edge browsers with microphone hardware permissions configured and zero installation required.
 
 ---
 
@@ -257,7 +264,7 @@ If you utilize EchoSpiro in your academic research, biomedical engineering curri
   year = {2027},
   month = {2},
   publisher = {VITB - Johns Hopkins University Health-Hack 2027},
-  url = {https://github.com/fokrulanthro16-eng/echospiro}
+  url = {https://echospiro-9a2u.vercel.app}
 }
 ```
 

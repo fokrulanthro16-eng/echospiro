@@ -1,5 +1,7 @@
 # Contributing to EchoSpiro
 
+[🌐 **Live Production Workstation**](https://echospiro-9a2u.vercel.app) • [🎬 **Watch 4K Video Pitch**](https://youtu.be/_lFlSE2TJYs) • [📖 **Project README**](README.md)
+
 Thank you for your interest in contributing to **EchoSpiro**! We welcome contributions from biomedical engineers, DSP researchers, clinicians, and software developers committed to democratizing pulmonary healthcare at the sovereign edge.
 
 ---

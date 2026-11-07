@@ -7,6 +7,8 @@
    +-----------------------------------------------------------------------------------+
 ```
 
+[🌐 **Live Production Workstation**](https://echospiro-9a2u.vercel.app) • [🎬 **Watch 4K Video Pitch**](https://youtu.be/_lFlSE2TJYs) • [📐 **Technical Architecture**](ARCHITECTURE.md) • [📊 **Clinical Validation (N=128)**](CLINICAL_VALIDATION.md) • [📖 **Project README**](README.md)
+
 ---
 
 ## 1. Core Security Architecture: Sovereign Edge & Zero-Cloud
